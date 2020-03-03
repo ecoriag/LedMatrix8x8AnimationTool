@@ -33,10 +33,16 @@ Both are very easy to understand and use:
 You have a sequence of matrixes that represent clips, you can Add/Remove clips, also you can make some actions in every single clip.
 Just draw any figure into the clips using the mouse and then test your results in the simulator, once you are happy with the results you can generate the hexadecimal code and paste it to your project.
 
+![LedMatrixAnimation](https://user-images.githubusercontent.com/7650467/75801734-ff965d80-5d51-11ea-835a-8a95568d370f.png)
+
 ## LedMatrixTextScroll
 
 ***Note.*** *This tool is in a very early stage.*
 
 You have a textbox in which you put your text, then you can generate the code and see the results
 
-Any suggestion is welcomed
+![LedMatrixTextScroll](https://user-images.githubusercontent.com/7650467/75801839-26ed2a80-5d52-11ea-9173-38ac1a11a73e.png)
+
+
+
+Any suggestion is welcomed!
