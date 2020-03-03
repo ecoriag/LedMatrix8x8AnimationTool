@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace LedMatrixAnimation
+namespace LedMatrixTextScroll
 {
     public partial class MainForm : Form
     {

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5D64A7DB-BBF5-494B-A92A-63A4D3757576}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>LedMatrixAnimation</RootNamespace>
-    <AssemblyName>LedMatrixAnimation</AssemblyName>
+    <RootNamespace>LedMatrixTextScroll</RootNamespace>
+    <AssemblyName>LedMatrixTextScroll</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
