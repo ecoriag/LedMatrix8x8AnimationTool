@@ -1,5 +1,5 @@
 # LedMatrix8x8AnimationTool
-A little initiative to help making matrix 8x8 animation easiest
+A little initiative to help making matrix 8x8 animation easier
 
 # Disclaimer
 This project is in an early stage so changes can come very frequently.
